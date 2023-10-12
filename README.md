@@ -28,7 +28,7 @@
 - [ ] Papildināt repozitoriju.
 - [ ] Papildināt wiki. 
 - [ ] Wiki izveidot DONE page. Aprakstīt padarīto.
-- [ ] Izmantojot **row.io** aprakstīt infrastruktūru. Bildes izvietot projekta Wiki. 
+- [ ] Izmantojot **https://app.diagrams.net/** aprakstīt infrastruktūru. Bildes izvietot projekta Wiki. 
 
 ## _Docker_ uzstādīšana
 2 p
